@@ -1,0 +1,152 @@
+[[GAP_pkg_simpcomp]]
+arch = "aarch64"
+git-tree-sha1 = "e8abd5154930228ed2874f4bf23f58a0b3e7e464"
+os = "macos"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "4f58b3dccb23adc1ecab47655a5b24e0260901388b14678a875ca9022b0895b3"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3948438f8c5d65c5ace599338f60729a85e9f98d"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "edae555cb6d70e29a07df9f0cb0d29ec9b977a019d07894427a811d6ec2842cd"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31f8329bb148950a15b3b458d32dd5e53101b3f6"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "8433e19c882a091ad62491410ef024e348b6519c9b4460226bd3f1b26f3d2450"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bd1a9aa627102a88231d593ebbaba9e27ab284bc"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "aad266db6b7e61a858959cb00ef9991f297191b667b242733bb6e5d39cd7b6e1"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.aarch64-linux-musl-cxx03.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d4ae806a3a1c5a85b912aa731e778f52b77c131"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "e420ea1a8f796f6c1cf26066e69f6e3fa62858f4508083c63c6b4bf7c92c5f57"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "aarch64"
+git-tree-sha1 = "bdf8baaefb46a70d934585e557595eed439b36e9"
+os = "freebsd"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "141f791dc92ccc40811e4e3a0112ba4d708592314c31cdd03268ad419a171cce"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a97549e43ff01b827b06fb9143530d0a00f4e94f"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "03281cef4848649a916e65844e4bb1c2d2dd36ef1d8efabaadc8ec0c5318127c"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07eb771f753e3bc53cd16064fb14e9e68d4858da"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "6a3b4dcbc49e19cf630bef61872b4fb1bd5432d06ce873ce076f358a5d3ed640"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c9ea51961dfe6503b1fed1d716fec33df223e9b0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "f340bf79b747612ea154a6a1b77431b3b6f14574282e960254c829d1bc2e2f2f"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "028b736929eeb1fba37694f901325b9d814777d0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "3176f43b508512ea95c42ac0fe311e14a7f6ca9e6adf0a9722b33bbc033df7ed"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+git-tree-sha1 = "1dd083ce6c585f8c024eae9bdcc50ce11b4a8ae9"
+os = "macos"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "7dd6afc16b971f8f26dbb398bf9e9fe9ed676af4f2c35441c3614150940fa276"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cefbd5b45cdc0ca0f7f87ac5a95678cdf1f25fa4"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "1a89ad08e89bc245b362b72d11f80015f15a0da7acfbe399ec8c5aa3bf631cc2"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be9639a4d42c3e24544a0a0e6971d1d221ec5cee"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "ca2d228413e286b99628343941cce761507054013b8ce76ac8606f39da49fd2a"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae309fe4e56e8a4c9a2b6889fa1e1c8e47c2ccf1"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "eff883448881115620731ecd81a7a6f3af5cda67d05c958b94dcbad4abbb98cf"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.x86_64-linux-musl-cxx03.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8048d97f819ed779ac06d9f859b80a14e3acfef"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "d03362244512be921774696902af213ae79aab7f551f585c4373aa54483cef2d"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_simpcomp]]
+arch = "x86_64"
+git-tree-sha1 = "69283da5ba6d94f1b89faa43d87274fa6a730164"
+os = "freebsd"
+
+    [[GAP_pkg_simpcomp.download]]
+    sha256 = "ae2dc80781b43f1963d1927d289f1c5ab58246db5026d390ba76f1ce22e237c1"
+    url = "https://github.com/lgoettgens/GAP_pkg_simpcomp_jll.jl/releases/download/GAP_pkg_simpcomp-v201.11400.0+0/GAP_pkg_simpcomp.v201.11400.0.x86_64-unknown-freebsd.tar.gz"
